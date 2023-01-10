@@ -9,5 +9,6 @@
     <PackageReference Include="Microsoft.Identity.Client" Version="4.21.0" />
     <PackageReference Include="Microsoft.PowerBI.Api" Version="3.21.0" />
     <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.1.76" />
+    <PackageReference Include="ReportViewerForMvc14" Version="140.1000.523" />
   </ItemGroup>
 </Project>
